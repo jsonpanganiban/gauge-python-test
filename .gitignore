@@ -1,0 +1,5 @@
+digitest/logs/*
+.vscode/settings.json
+digitest/.gauge/*
+digitest/reports/html-report/*
+*.pyc
